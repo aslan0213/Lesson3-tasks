@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\bin\Debug\net8.0\Dechode_lesson3_tasks.exe
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\bin\Debug\net8.0\Dechode_lesson3_tasks.deps.json
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\bin\Debug\net8.0\Dechode_lesson3_tasks.runtimeconfig.json
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\bin\Debug\net8.0\Dechode_lesson3_tasks.dll
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\bin\Debug\net8.0\Dechode_lesson3_tasks.pdb
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.dll
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\refint\Dechode_lesson3_tasks.dll
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.pdb
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\Dechode_lesson3_tasks.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Dechode_lesson3_tasks\obj\Debug\net8.0\ref\Dechode_lesson3_tasks.dll

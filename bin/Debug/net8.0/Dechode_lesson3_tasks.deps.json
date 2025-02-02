@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dechode_lesson3_tasks/1.0.0": {
+        "runtime": {
+          "Dechode_lesson3_tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dechode_lesson3_tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
